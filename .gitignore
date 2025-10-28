@@ -4,3 +4,5 @@ requests/
 
 # Files
 /package-lock.json
+.env
+mongo.js
